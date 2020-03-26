@@ -1,6 +1,6 @@
 # PYTHON-PROJECT-BASICS
 This repository contains five mini-projects for beginners in Python in hopes
-of bettering our knowledge with the fundamentals.  
+of bettering my knowledge with the fundamentals.  
 
 These five mini-projects include:  
 

@@ -2,7 +2,7 @@
 This repository contains three mini-projects for beginners in Python in hopes
 of bettering my knowledge with the fundamentals.  
 
-These five mini-projects include:  
+These three mini-projects include:  
 
 1) Dice Rolling Simulator
 

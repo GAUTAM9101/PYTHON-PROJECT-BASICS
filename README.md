@@ -1,5 +1,5 @@
 # PYTHON-PROJECT-BASICS
-This repository contains three mini-projects for beginners in Python in hopes
+This repository contains three mini-projects in Python in hopes
 of bettering my knowledge with the fundamentals.  
 
 These three mini-projects include:  
